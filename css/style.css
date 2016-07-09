@@ -146,7 +146,7 @@
 
     .s2_content1 ul{
       border-radius: 8.8px;
-      background-color: rgba(133, 88, 35, 0.7);
+      background-color: rgba(133, 88, 35, 0.41);
       width: 309.1px;
       height: 283.4px;
       position: absolute;
@@ -450,7 +450,7 @@
     }
     .section5 img{
       display: block;
-
+      width: 87.013px;
       height: 91.216px;
       margin-bottom: 0px;
       border-top-right-radius: 8.8px;
@@ -469,7 +469,7 @@
       padding-top: 7px;
       text-align: center;
       font-size: 14px;
-      background-color: rgb(224, 189, 0);
+      background-color: rgba(255, 179, 179, 1);
       border-bottom-left-radius: 8px;
       border-bottom-right-radius: 8px;
     }
@@ -480,7 +480,7 @@
       padding-top: 7px;
       text-align: center;
       font-size: 14px;
-      background-color: rgb(107, 128, 171);
+      background-color: rgba(107, 128, 171, 1);
       border-bottom-left-radius: 8px;
       border-bottom-right-radius: 8px;
     }
@@ -491,7 +491,7 @@
       padding-top: 7px;
       text-align: center;
       font-size: 14px;
-      background-color: rgba(249, 123, 126, 1);
+      background-color: rgba(255, 244, 226, 0.84);
       border-bottom-left-radius: 8px;
       border-bottom-right-radius: 8px;
     }
@@ -513,7 +513,7 @@
       padding-top: 7px;
       text-align: center;
       font-size: 14px;
-      background-color: rgb(187, 187, 187);
+      background-color: rgb(152, 152, 152);
       border-bottom-left-radius: 8px;
       border-bottom-right-radius: 8px;
     }
@@ -524,7 +524,7 @@
       border-radius: 8.8px;
       float: left;
       position: relative;
-      margin-right: 18.5px;
+      margin-right: 17px;
     }
     .group .Characin{
       width: auto;
@@ -533,7 +533,7 @@
       border-radius: 8.8px;
       float: left;
       position: relative;
-      margin-right: 18.5px;
+      margin-right: 17px;
     }
     .group .Cyprinidae{
       width: auto;
@@ -542,7 +542,7 @@
       border-radius: 8.8px;
       float: left;
       position: relative;
-      margin-right: 18.5px;
+      margin-right: 17px;
     }
     .group .Cichlidae{
       width: auto;
