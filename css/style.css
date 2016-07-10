@@ -70,20 +70,26 @@
       background-repeat:no-repeat;
     }
     .footer{
-        background-color: rgba(0, 40, 59, 1);
+        background-color: #222631;
         min-width: 1200px;
         max-width: 2200px;
         margin-left: auto;
         margin-right: auto;
-        height: 90px;
+        height: 35px;
         text-align: center;
-        padding-top: 40px;
+        padding-top: 22px;
         font-size: 12px;
-        color: rgb(137,137,137);
-
+        color: #58595b;
+        border-top: 1px solid #444542;
+        font-family: dotum;
     }
-
-
+    .right{
+      position: relative;
+      float: right;
+    }
+    .left{
+      float: left;
+    }
     .frame{
       max-width: 902px;
       margin-left: auto;
@@ -91,6 +97,10 @@
       height: 880px;
       padding-left: 0px;
     }
+    .footer .frame{
+      height:35px;
+    }
+
     ul{
       list-style-type: none;
       -webkit-margin-before: 0em;
