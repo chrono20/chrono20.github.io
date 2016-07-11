@@ -29,7 +29,7 @@ position: relative;
 
 
 .s1b{
-  border-top: 1px solid #979797;
+
   background-color: #3471B8;
   font-size: 60px;
   color: white;
@@ -43,7 +43,7 @@ position: relative;
 
 
 .s2b{
-  border-top: 1px solid #979797;
+  border-top: 1px solid #white;
   background-color: #3471B8;
   font-size: 60px;
   color: white;
@@ -56,7 +56,7 @@ position: relative;
 
 
 .s3b{
-  border-top: 1px solid #979797;
+  border-top: 1px solid white;
   background-color: #C9594B;
   font-size: 60px;
   color: white;
@@ -69,7 +69,7 @@ position: relative;
 
 
 .s4b{
-  border-top: 1px solid #979797;
+  border-top: 1px solid white;
   background-color: #C9594B;
   font-size: 60px;
   color: white;
@@ -82,7 +82,7 @@ position: relative;
 
 
 .s5b{
-  border-top: 1px solid #979797;
+  border-top: 1px solid white;
   background-color: #5359A4;
   font-size: 60px;
   color: white;
@@ -95,13 +95,12 @@ position: relative;
 
 
 .s6b{
-  border-top: 1px solid #979797;
+  border-top: 1px solid white;
   background-color: #5359A4;
   font-size: 60px;
   color: white;
 }
 .s6b .inner{
-  border-top: 1px solid #979797;
   text-align: left;
   padding-left: 7%;
   padding-right: 7%;
@@ -109,7 +108,7 @@ position: relative;
 
 
 .s7b{
-  border-top: 1px solid #979797;
+  border-top: 1px solid white;
   background-color: #52B848;
   font-size: 60px;
   color: white;
@@ -122,7 +121,7 @@ position: relative;
 
 
 .s8b{
-  border-top: 1px solid #979797;
+  border-top: 1px solid #white;
   background-color: #1A5D75;
   font-size: 60px;
   color: white;
