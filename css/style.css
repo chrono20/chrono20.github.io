@@ -16,6 +16,22 @@ ul{
   -webkit-margin-end: 0px;
   -webkit-padding-start: 0px;
 }
+.text{
+  float:right;
+  height: 69px;
+}
+.sb{
+  float:right;
+  width: 69px;
+  height: 69px;
+  background-image:url(../img/sb.svg);
+}
+.sbb{
+  float:right;
+  width: 69px;
+  height: 69px;
+  background-image:url(../img/sbb.svg);
+}
 span{
   font-size: 60px;
 }
@@ -36,6 +52,7 @@ span{
   width: 100%;
   height: 100%;
 }
+
 .inner{
   padding-top: 41.9px;
   padding-bottom: 41.9px;
