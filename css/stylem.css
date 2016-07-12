@@ -1,0 +1,322 @@
+
+body{
+  margin: 0px;
+  background-color: #222631;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul{
+  display: block;
+  list-style-type: none;
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 0px;
+}
+.text{
+  float:right;
+  height: 69px;
+}
+.sb{
+  float:right;
+  width: 69px;
+  height: 69px;
+  background-image:url(../img/sb.svg);
+}
+.sbb{
+  float:right;
+  width: 69px;
+  height: 69px;
+  background-image:url(../img/sbb.svg);
+}
+span{
+  font-size: 60px;
+}
+.rbox{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  background-color: #C9594B;
+  color: white;
+  font-size: 40px;
+}
+.s6 .rbox{
+  background-color: #135E99;
+}
+.outer{
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+.inner{
+  padding-top: 41.9px;
+  padding-bottom: 41.9px;
+  display: table-cell;
+  padding-left: 53px;
+  padding-right: 53px;
+}
+.underline{
+  width: 100%;
+  border-bottom:2px solid #6D6D6D;
+}
+.descripton{
+  color: #696969;
+  font-size: 40px;
+  margin-top: 20px;
+}
+li span{text-align: center}
+.s3 span{
+  font-size: inherit;
+  font-weight: bold;
+  color: black;
+}
+.s3 .descripton{
+  color: black;
+  margin-top:0px;
+  font-size:50px;
+  margin-bottom:20px;
+}
+
+.s7 .img_wrap{
+  width:15%;
+}
+
+.s7 span{
+  font-size: 45px;
+}
+.s7 .descripton{
+  font-size: 30px;
+  margin-top: 10px;
+}
+.align{
+  margin-top: 40px;
+}
+.top{
+  width: 100%;
+  height: 10%;
+  background-color: #EEEEEE;
+  border-top: 1px solid #c5c5c5;
+  border-bottom: 3px solid #c5c5c5;
+}
+.top .inner{
+  display: table-cell;
+  text-align: center;
+  padding: 5%;
+  }
+
+
+li{
+  display: block;
+  font-weight: normal;
+  text-shadow: none;
+}
+.s5 li{
+  display: inline-block;;
+  text-align: center;
+}
+.s5 .outer{
+
+}
+.s5 li .inner{
+  display: table;
+  text-align: center;
+  padding-right: 23px;
+
+}
+.s5 .descripton span{
+  font-size: 31px;
+  color: black;
+}
+.s5 .descripton{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+.round1 {
+  width: 155px;
+}
+.s5 .img_wrap{
+  width: 100%;
+}
+.s1b{
+  background-color: #3471B8;
+  font-size: 60px;
+  color: white;
+}
+.s1b .inner{
+  text-align: left;
+}
+li .inner{
+    display: table-cell;
+    text-align: left;
+
+    }
+
+.img_wrap{
+  float: left;
+  width: 30%;
+  margin-right: 53px;
+}
+.frame{
+  background-color: #EEEEEE;
+
+}
+
+
+.s2b{
+  border-top: 1px solid white;
+  background-color: #3471B8;
+  font-size: 60px;
+  color: white;
+}
+.s2b .inner{
+  text-align: left;
+}
+
+
+.s3b{
+  border-top: 1px solid white;
+  background-color: #C9594B;
+  font-size: 60px;
+  color: white;
+}
+.s3b .inner{
+  text-align: left;
+}
+
+
+.s4b{
+  border-top: 1px solid white;
+  background-color: #C9594B;
+  font-size: 60px;
+  color: white;
+}
+.s4b .inner{
+  text-align: left;
+}
+
+
+.s5b{
+  border-top: 1px solid white;
+  background-color: #135E99;
+  font-size: 60px;
+  color: white;
+}
+.s5b .inner{
+  text-align: left;
+}
+
+
+.s6b{
+  border-top: 1px solid white;
+  background-color: #135E99;
+  font-size: 60px;
+  color: white;
+}
+.s6b .inner{
+  text-align: left;
+}
+
+
+.s7b{
+  border-top: 1px solid white;
+  background-color: #52B848;
+  font-size: 60px;
+  color: white;
+}
+.s7b .inner{
+  text-align: left;
+}
+
+
+.s8b{
+  border-top: 1px solid white;
+  background-color: #1A5D75;
+  font-size: 60px;
+  color: white;
+}
+.s8b .inner{
+  text-align: left;
+}
+.s8 .descripton{
+  font-size: 60px;
+  color: black;
+}
+.Poeciliidae{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #D7648F;
+}
+.Characin{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #30B3CF;
+}
+.Cyprinidae{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #ED9A68;
+}
+.Cichlidae{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #ACD225;
+}
+.etc{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #BEA3C2
+}
+.etc2{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #BEA3C2
+}
+.s8 li img{
+  border-radius: 16px;
+  width: 200px;
+}
+.s8 li .aro img{
+  width: 480px;
+}
+.s8 .img_wrap{
+  width: 200px;
+}
+.s8 li{
+  display: none;}
+.s8 .underline{
+  display: none;}
+.footer{
+  background-color: #222631;
+  color: #868687;
+  border-top: 1px solid #979797;
+}
