@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="130 -106.1 283.5 283.5" style="enable-background:new 130 -106.1 283.5 283.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E3E3E3;stroke:#D3D3D3;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#CECECD;stroke:#C9594B;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#C8594B;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'Dotum';}
+	.st5{font-size:17.3978px;}
+	.st6{fill:#231F20;}
+	.st7{font-size:17.3949px;}
+</style>
+<symbol  id="화살표_6">
+</symbol>
+<use xlink:href="#화살표_6"  width="-32766" height="-32766" id="XMLID_1_" x="16383" y="16383" transform="matrix(0 0 0 0 13629.9102 24858.377)" style="overflow:visible;"/>
+<g id="XMLID_265_">
+	<circle id="XMLID_4_" class="st0" cx="272.6" cy="33.7" r="135.8"/>
+	<circle id="XMLID_3_" class="st1" cx="272.6" cy="74.4" r="86"/>
+	<circle id="XMLID_275_" class="st2" cx="272.6" cy="46.1" r="36.8"/>
+	<circle id="XMLID_271_" class="st2" cx="272.6" cy="113.7" r="24.6"/>
+	<text id="XMLID_270_" transform="matrix(1 0 0 1 255.1777 52.283)" class="st3 st4 st5">서울</text>
+	<text id="XMLID_269_" transform="matrix(1 0 0 1 246.4834 -36.6242)" class="st6 st4 st7">경기도</text>
+	<text id="XMLID_267_" transform="matrix(1 0 0 1 255.1787 119.827)" class="st3 st4 st7">수원</text>
+</g>
+<g id="XMLID_2_">
+	<path id="XMLID_372_" class="st2" d="M125-169.6H63.9H5c-8.3,0-15.2-6.8-15.2-15.2v-62.4c0-8.3,6.8-15.2,15.2-15.2h120
+		c8.3,0,15.2,6.8,15.2,15.2v62.4C140.2-176.5,133.3-169.6,125-169.6z"/>
+	<text id="XMLID_262_" transform="matrix(1 0 0 1 32.5579 -222.4938)"><tspan x="0" y="0" class="st3 st4" style="font-size:31.5968px;">서울</tspan><tspan x="-31.6" y="37.9" class="st3 st4" style="font-size:31.5968px;">경기남부</tspan></text>
+</g>
+</svg>
