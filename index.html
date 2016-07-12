@@ -1,21 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
-
-    <head>
-    <script language="JavaScript">
-    var uAgent = navigator.userAgent.toLowerCase();
-    var mobilePhones = new Array('iphone','ipod','android','blackberry','windows ce',
-            'nokia','webos','opera mini','sonyericsson','opera mobi','iemobile');
-    for(var i=0;i<mobilePhones.length;i++)
-        if(uAgent.indexOf(mobilePhones[i]) != -1)
-            document.location = "http://chrono20.github.io/mobile.index.html";
+    <meta charset="utf-8">
+    <script type="text/javascript">
+    var mobileKeyWords = new Array('iPhone','iPod','iPad','BlackBerry', 'Android','Windows CE','LG','MOT','SAMSUNG','SonyEricsson');
+    for(var word in mobileKeyWords){
+  	if(navigator.userAgent.match(mobileKeyWords[word])!=null){
+  		location.href="http://chrono20.github.io/mobile.index.html";
+  		break;
+  	}
+  }
     </script>
-
     <meta http-equiv="refresh" content="0;url=http://chrono20.github.io/">
-        <meta charset="utf-8">
     <link rel="stylesheet" href="css/style.css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="css/ul.css" media="screen" title="no title" charset="utf-8">
     <title>아마존 수족관 청소</title>
   </head>
   <body>
