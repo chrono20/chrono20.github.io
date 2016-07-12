@@ -1,7 +1,7 @@
 
 body{
   margin: 0px;
-
+  background-color: #222631;
 }
 a {
   text-decoration: none;
@@ -284,7 +284,7 @@ li .inner{
   font-size: 50px;
   background-color: #BEA3C2
 }
-.s8 img{
+.s8 li img{
   border-radius: 16px;
   width: 200px;
 }
@@ -294,7 +294,10 @@ li .inner{
 .s8 .img_wrap{
   width: 200px;
 }
-
+.s8 li{
+  display: none;}
+.s8 .underline{
+  display: none;}
 .footer{
   background-color: #222631;
   color: #868687;
