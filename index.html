@@ -3,7 +3,30 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/style.css" media="screen" title="no title" charset="utf-8">
-    <title></title>
+    <meta charset="utf-8">
+    <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script>
+    $(document).ready(function(){
+    $(".s1b").click(function(){
+        if($(".s1 li").is(":visible")){
+            $(".s1 li").slideUp();
+        }else{
+            $(".s1 li").slideDown();
+        }
+    });
+    });
+    $(document).ready(function(){
+    $(".s1b").click(function(){
+        if($(".s1 .underline").is(":visible")){
+            $(".s1 .underline").slideUp();
+        }else{
+            $(".s1 .underline").slideDown();
+        }
+    });
+    });
+    </script>
+
+    <title>아마존 수족관 청소</title>
   </head>
   <body>
   <div class="top">
@@ -17,7 +40,7 @@
     </div>
   <div class="s1">
     <div class="frame">
-      <ul>
+       <ul>
         <div class="s1b">
           <div class="outer">
             <div class="inner">
@@ -30,7 +53,7 @@
           </div>
         </div>
       </div>
-      <li>
+      <li style="display:none">
         <div class=outer>
         <div class=inner>
           <div class="img_wrap">
@@ -43,8 +66,8 @@
         </div>
         </div>
       </li>
-      <div class="underline"></div>
-      <li>
+      <div class="underline" style="display:none"></div>
+      <li style="display:none">
         <div class=outer>
         <div class=inner>
           <div class="img_wrap">
@@ -57,8 +80,8 @@
         </div>
         </div>
       </li>
-      <div class="underline"></div>
-      <li>
+      <div class="underline" style="display:none"></div>
+      <li style="display:none">
         <div class=outer>
         <div class=inner>
           <div class="img_wrap">
@@ -71,8 +94,8 @@
         </div>
         </div>
       </li>
-      <div class="underline"></div>
-      <li style="height=221px;">
+      <div class="underline" style="display:none"></div>
+      <li style="height=221px;display:none">
         <div class=outer>
         <div class=inner>
           <div class="img_wrap">
