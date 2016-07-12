@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.js"></script>
+<script>
+$(document).ready(function(){
+    $("#spreadBtn").click(function(){
+        if($("#hiddenContent").is(":visible")){
+            $("#hiddenContent").css("display", "none");
+        }else{
+            $("#hiddenContent").css("display", "block");
+        }
+    });
+});
+</script>
+
+</head>
+<BODY>
+<button id="spreadBtn" class="btn01">펼치기</button>
+<div id="hiddenContent" class="example01" style="display: none;">내용</div>
+</BODY>
+</HTML>
