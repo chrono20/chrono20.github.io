@@ -89,6 +89,7 @@ li{
   display: table;
   text-align: center;
   padding-right: 23px;
+
 }
 .s5 .descripton span{
   font-size: 31px;
@@ -99,7 +100,8 @@ li{
   margin-bottom: 10px;
   font-size: 30px;
 }
-.round1 img{
+.round1 {
+  width: 155px;
 }
 .s5 .img_wrap{
   width: 100%;
