@@ -9,8 +9,10 @@
     $(document).ready(function(){
     $(".s1b").click(function(){
         if($(".s1 li").is(":visible")){
+            $(".sbb").toggleClass("sbb sb");
             $(".s1 li").slideUp();
         }else{
+            $(".sb").toggleClass("sb sbb");
             $(".s1 li").slideDown();
         }
     });
@@ -171,9 +173,10 @@
             <div class=text style="float:left;" style="width:50%">
               수족관 청소
             </div>
-            <div class=text style="float:right;height: 69px;">
-              <img src="img/sb.svg" height="69px"/>
+            <div class=text>
+              <div class=sb></div>
             </div>
+
           </div>
         </div>
       </div>
