@@ -24,6 +24,9 @@ span{
   color: white;
   font-size: 40px;
 }
+.s6 .rbox{
+  background-color: #135E99;
+}
 .outer{
   display: table;
   width: 100%;
