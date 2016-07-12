@@ -68,6 +68,7 @@ li span{text-align: center}
 .s7 .img_wrap{
   width:15%;
 }
+
 .s7 span{
   font-size: 45px;
 }
@@ -224,6 +225,74 @@ li .inner{
 }
 .s8b .inner{
   text-align: left;
+}
+.s8 .descripton{
+  font-size: 60px;
+  color: black;
+}
+.Poeciliidae{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #D7648F;
+}
+.Characin{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #30B3CF;
+}
+.Cyprinidae{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #ED9A68;
+}
+.Cichlidae{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #ACD225;
+}
+.etc{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #BEA3C2
+}
+.etc2{
+  display: table;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  color: white;
+  font-size: 50px;
+  background-color: #BEA3C2
+}
+.s8 img{
+  border-radius: 16px;
+  width: 200px;
+}
+.aro img{
+  width: 480px;
+}
+.s8 .img_wrap{
+  width: 200px;
 }
 
 .footer{
