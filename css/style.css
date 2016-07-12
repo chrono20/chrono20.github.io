@@ -78,6 +78,32 @@ li{
   font-weight: normal;
   text-shadow: none;
 }
+.s5 li{
+  display: inline-block;;
+  text-align: center;
+}
+.s5 .outer{
+
+}
+.s5 li .inner{
+  display: table;
+  text-align: center;
+  padding-right: 23px;
+}
+.s5 .descripton span{
+  font-size: 31px;
+  color: black;
+}
+.s5 .descripton{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+.round1 img{
+}
+.s5 .img_wrap{
+  width: 100%;
+}
 .s1b{
   background-color: #3471B8;
   font-size: 60px;
@@ -91,6 +117,7 @@ li .inner{
     text-align: left;
 
     }
+
 .img_wrap{
   float: left;
   width: 30%;
